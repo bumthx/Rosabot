@@ -1,9 +1,9 @@
 {
-  "name": "MissJuliaRobot",
+  "name": "Sensie bot",
   "description": "A Telegram Group Management Bot",
-  "logo": "https://telegra.ph/file/517f97b74ad036b2ef3c9.jpg",
+  "logo": "https://telegra.ph/file/0630463121ee4364736ca.png",
   "keywords": ["telethon", "sqlalchemy", "mongodb"],
-  "repository": "https://github.com/MissJuliaRobot/MissJuliaRobot.git",
+  "repository": "https://github.com/deshadeeth-thisrana/Sensei.git",
   "success_url": "http://missjuliarobot.unaux.com",
   "env": {
     "API_KEY": {
@@ -28,19 +28,22 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Copy paste the repository url here (fork/official)",
-      "value": "https://github.com/MissJuliaRobot/MissJuliaRobot",
+      "value": "https://github.com/deshadeethThisarana/Sensei",
       "required": false
     },
     "OPENWEATHERMAP_ID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
+      "value": "",
       "required": false
     },
     "IBM_WATSON_CRED_URL": {
       "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
+      "value": "",
       "required": false
     },
     "IBM_WATSON_CRED_PASSWORD": {
       "description": "This is required for the speech to text module. Get your PASSWORD from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
+      "value": "",
       "required": false
     },
     "LYDIA_API_KEY": {
@@ -50,6 +53,7 @@
     },
     "OCR_API_KEY": {
       "description": "Get an API Key from https://cloudmersive.com/ocr-api",
+      "value": "",
       "required": false
     },
     "GBAN_LOGS": {
@@ -59,11 +63,12 @@
     },
     "REM_BG_API_KEY": {
       "description": "Get your own API key from https://www.remove.bg/",
+      "value": "",
       "required": false
     },
     "SUDO_USERS": {
       "description": "List of user id's who will have SUDO rights in your bot(they can gban/ungban users)",
-      "value": "",
+      "value": "1041727415",
       "required": false
     },
     "YOUTUBE_API_KEY": {
@@ -73,12 +78,12 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your ID",
-      "value": "",
+      "value": "1041727415",
       "required": true
     },
     "OWNER_USERNAME": {
       "description": "Your username without @",
-      "value": "",
+      "value": "DeshadeethThisarana",
       "required": true
     },
     "BOT_ID": {
