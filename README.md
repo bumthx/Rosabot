@@ -21,7 +21,7 @@ Can be found on telegram as [Rose](https://t.me/Miss_Rose_robot)
 
 Deploy Sensei to Heroku:
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Sensei/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/deshadeeth-thisarana/Rose/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Credits
 
